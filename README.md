@@ -34,9 +34,9 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://jfgomez.me#gh-light-mode-only)
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" style="padding-right:10px;" />][website]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" style="padding-right:10px;" />][website]
-[<img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" style="padding-right:10px;" />][website]
+[<img align="left" alt="AWS" width="26px" src="https://unicollect.io/unicollect_files/11f68582-7aa3-412a-aa57-794bc1ca2251.png" style="padding-right:10px;" />][website]
 [<img align="left" alt="Terraform" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/11/terraform.png" style="padding-right:10px;" />][website]
-[<img align="left" alt="Airflow" width="26px" src="https://www.vhv.rs/dpng/d/518-5188627_apache-airflow-documentation-airflow-documentation-apache-airflow-logo.png" style="padding-right:10px;" />][website]
+[<img align="left" alt="Airflow" width="26px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d512cea8-6fde-4b68-93dd-e4649d60d02e.png?auto=format&q=50&w=90&h=90&fit=max&dpr=3" style="padding-right:10px;" />][website]
 [<img align="left" alt="dbt" height="20px" src="https://dataschool.com/assets/images/sql-optimization/start_modeling_data/data2.png" style="padding-right:10px;" />][website]
 
 [website]: https://jfgomez.me
