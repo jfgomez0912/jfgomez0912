@@ -38,7 +38,7 @@
 [<img align="left" alt="AWS" width="30px" src="http://conisoft.org/2018/public/images/logos/aws.png" style="padding-right:10px;" />](https://jfgomez.me#gh-dark-mode-only)
 [<img align="left" alt="Terraform" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/11/terraform.png" style="padding-right:10px;" />][website]
 [<img align="left" alt="Airflow" width="26px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d512cea8-6fde-4b68-93dd-e4649d60d02e.png?auto=format&q=50&w=90&h=90&fit=max&dpr=3" style="padding-right:10px;" />][website]
-[<img align="left" alt="dbt" height="20px" src="./img/dbt-light.svg" style="padding-right:10px;" />](https://jfgomez.me#gh-light-mode-only)
-[<img align="left" alt="dbt" height="20px" src="./img/dbt-dark.svg" style="padding-right:10px;" />](https://jfgomez.me#gh-dark-mode-only)
+[<img align="left" alt="dbt" height="26px" src="./img/dbt-light.svg" style="padding-right:10px;" />](https://jfgomez.me#gh-light-mode-only)
+[<img align="left" alt="dbt" height="26px" src="./img/dbt-dark.svg" style="padding-right:10px;" />](https://jfgomez.me#gh-dark-mode-only)
 
 [website]: https://jfgomez.me
