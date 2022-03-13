@@ -42,6 +42,7 @@
 [<img align="left" alt="dbt" height="26px" src="./img/dbt-dark.svg" style="padding-right:10px;" />](https://jfgomez.me#gh-dark-mode-only)
 
 <br />
+<br />
 
 ## GitHub Stats
 
