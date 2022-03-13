@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there, I'm Juan Felipe👋
 
+## I'm a Data Engineer and Developer
+
+- 🔭 I’m currently working as a Data Engineer at @factoredai
+- 🌱 I’m currently learning about Airflow and AWS
+- 💬 Ask me about Data Engineering, Python and SQL
+- ⚡ Fun fact: I love to play video games and play piano
 <!--
-**jfgomez0912/jfgomez0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  -->
+
+### Connect with me
+
+[![website](./img/globe-light.svg)](https://jfgomez.me/)
+[![website](./img/globe-dark.svg)](https://jfgomez.me/)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/jfgomez0912)
+[![website](./img/twitter-dark.svg)](https://twitter.com/jfgomez0912)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jfgomez0912/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jfgomez0912/)
