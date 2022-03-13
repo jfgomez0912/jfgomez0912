@@ -41,6 +41,8 @@
 [<img align="left" alt="dbt" height="26px" src="./img/dbt-light.svg" style="padding-right:10px;" />](https://jfgomez.me#gh-light-mode-only)
 [<img align="left" alt="dbt" height="26px" src="./img/dbt-dark.svg" style="padding-right:10px;" />](https://jfgomez.me#gh-dark-mode-only)
 
+<br />
+
 ### GitHub Stats
 
 <img align="left" alt="jfgomez0912's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jfgomez0912&show_icons=true&hide_border=true&count_private=true&theme=nord&hide_title=true" />
